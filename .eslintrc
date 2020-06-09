@@ -58,6 +58,7 @@
     "react/jsx-uses-react": 1,
     "react/sort-comp": "off",
     "import/no-cycle": "off",
+    "import/no-extraneous-dependencies": "off",
     "react/prop-types": "off",
     "linebreak-style": "off",
     "global-require": "off",
